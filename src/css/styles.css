@@ -11,7 +11,8 @@ body{
 }
 
 .contenedor{
-    width: 1000px;
+    width: 90%;
+    max-width: 1000px;
     margin: 0 auto;
     overflow: hidden;
 }
@@ -49,7 +50,7 @@ header nav ul li a:hover{
 
 /* Main */
 .main{
-    width: 700px;
+    width: 70%;
     background-color: #fff;
     float: left;
 }
@@ -81,8 +82,7 @@ header nav ul li a:hover{
 
 /* Barra lateral */
 aside{
-    width: 300px;
-    height: 732px;
+    width: 30%;
     background-color: #fff;
     padding: 20px;
     float: left;
