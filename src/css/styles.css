@@ -113,3 +113,14 @@ aside .widget ul li a{
 aside .widget ul li a:hover{
     border: 1px solid rgba(100, 153, 231, 1);
 }
+
+/* Footer */
+footer{
+    clear: both;
+    width: 700px;
+    background-color: #000;
+    color: #fff;
+    padding: 15px 0px;
+    text-align: center;
+    text-align: center;
+}
