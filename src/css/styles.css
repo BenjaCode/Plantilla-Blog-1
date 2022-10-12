@@ -45,3 +45,31 @@ header nav ul li a:hover{
     background-color: #000;
     color: #fff;
 }
+
+/* Main */
+.main{
+    width: 700px;
+    background-color: #fff;
+}
+
+.main .imagen{
+    width: 100%;
+}
+
+.main .imagen img{
+    width: 100%;
+    vertical-align: top;
+}
+
+.main .post{
+    padding: 40px;
+}
+
+.main .post article h2{
+    margin-bottom: 20px;
+    color: #000;
+}
+
+.main .post article p{
+    margin-bottom: 15px;
+}
